@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./pack-a/src"
+      component: "pack-a:lib"
+
+    - path: "./pack-b/src"
+      component: "pack-b:lib"

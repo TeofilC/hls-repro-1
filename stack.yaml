@@ -1,0 +1,5 @@
+resolver: nightly-2023-05-28
+
+packages:
+- ./pack-a
+- ./pack-b
